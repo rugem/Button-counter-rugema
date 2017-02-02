@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button-counter-rugema</string>
+    <string name="text_title">0</string>
+    <string name="down_btn">-</string>
+    <string name="up_btn">+</string>
+    <string name="clear_text">Clear</string>
+</resources>
